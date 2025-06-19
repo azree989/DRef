@@ -43,5 +43,5 @@ We value your feedback to improve DRef further.
 ## 🔒 Access Limitation
 
 📢 This site is **not indexed on Google** or discoverable via search engines.  
-To use it, you must open the direct link above using an account within the MOH Google Workspace.
+To use it, you must open the direct link above.
 
