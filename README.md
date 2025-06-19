@@ -19,6 +19,8 @@ Welcome to the **DRef Clinical Portal** – a curated suite of digital tools des
 - 💉 **Formulary Search**
 - 🧠 **Mental Health Screening Tools** (PHQ-9, GAD-7, GAD-2, Whooley)
 - 📊 **Chronic Disease Calculators** (eGFR, PEFR, HbA1c, CKD staging)
+- 💉 **Pharmacokinetics TDM calculators**
+- 💉 **Warfarin and IV Venofer dosing calculations**
 - 🚨 **Emergency Drug Pages** (in development)
 
 ---
