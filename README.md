@@ -9,7 +9,7 @@ Welcome to the **DRef Clinical Tools Directory** – a curated suite of digital 
 
 ## 🔗 Access the Google Site
 
-📎 **[Visit the Clinical Tools Site »](https://sites.google.com/view/your-site-link)**  
+📎 **[Visit the Clinical Tools Site »](https://sites.google.com/moh.gov.my/albumubatkkmahligai)**  
 🔐 *Note: Only accessible within PKD Bachok Google Workspace.*
 
 ---
